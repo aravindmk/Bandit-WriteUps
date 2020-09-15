@@ -18,6 +18,15 @@ These are the write-ups for the levels 1-15 of OverTheWire-Bandit
 - Copy the password `CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9`
 - Type `exit'
 
-#### Bandit: Level 2>3
-- Type command `ssh bandit1@bandit.labs.overthewire.org -p 2220`
+#### Bandit: Level 2->3
+- Type command `ssh bandit2@bandit.labs.overthewire.org -p 2220`
+- Type the password `CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9`
+- Type `cat 'spaces in this filename'`
+- Copy the password `UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK`
+- Type `exit`
 
+#### Bandit: Level 3->4
+- Type command `ssh bandit3@bandit.labs.overthewire.org -p 2220`
+- Type the password `UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK`
+- Type `cd inhere`to get into the directory `inhere`
+- Type `ls -a` to see including 
