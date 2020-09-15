@@ -107,7 +107,7 @@ Type `exit`
 - We cannot decompress the file from the root directory, so we copy the file to another by `mkdir /tmp/myname123 ` and `cp data.txt /tmp/myname123`
 - Change the directory to the newly created directory by `cd /tmp/myname123`
 - Check the file type of the file `file <filename>`
-- Change the name of the file to the default extension by `mv <filename> <filename>.<fileformat>`
+- Rename the file to the default extension by `mv <filename> <filename.fileformat>`
 To decompress :
 - For tar compressed `tar xvf <filename.tar>`
 - For gz compressed `gzip <filename.gz>`
