@@ -2,6 +2,7 @@
 
 These are the write-ups for the levels 1-15 of OverTheWire-Bandit
 
+
 #### Bandit: Level 0->1
 
 - Type command `ssh bandit0@bandit.labs.overthewire.org -p 2220`
@@ -29,4 +30,9 @@ These are the write-ups for the levels 1-15 of OverTheWire-Bandit
 - Type command `ssh bandit3@bandit.labs.overthewire.org -p 2220`
 - Type the password `UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK`
 - Type `cd inhere`to get into the directory `inhere`
-- Type `ls -a` to see including 
+- Type `ls -a` to see including hidden files
+- To read the file type `cat ./.hidden`
+- Copy the password `pIwrPrtPN36QITSp3EQaw936yaFoFgAB`
+
+#### Bandit: Level 4->5
+- 
