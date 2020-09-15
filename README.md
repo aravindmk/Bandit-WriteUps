@@ -35,4 +35,8 @@ These are the write-ups for the levels 1-15 of OverTheWire-Bandit
 - Copy the password `pIwrPrtPN36QITSp3EQaw936yaFoFgAB`
 
 #### Bandit: Level 4->5
-- 
+- Type command `ssh bandit4@bandit.labs.overthewire.org -p 2220`
+- Type the password `pIwrPrtPN36QITSp3EQaw936yaFoFgAB`
+- Type `cd inhere`to get into the directory `inhere`
+- To read contents of all the files type `cat ./*`
+- Copy the password
