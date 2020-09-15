@@ -20,8 +20,4 @@ These are the write-ups for the levels 1-15 of OverTheWire-Bandit
 
 #### Bandit: Level 2>3
 - Type command `ssh bandit1@bandit.labs.overthewire.org -p 2220`
-- 
-- 
-- 
-- 
--
+
