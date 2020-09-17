@@ -22,7 +22,7 @@ These are the write-ups for the levels 1-15 of OverTheWire-Bandit
 #### Bandit: Level 2->3
 - Type command `ssh bandit2@bandit.labs.overthewire.org -p 2220`
 - Type the password `CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9`
-- Type `cat 'spaces in this filename'`
+- Type `cat 'spaces in this filename'` or `cat spaces\in\this\filename`
 - Copy the password `UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK`
 - Type `exit`
 
